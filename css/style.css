@@ -1,0 +1,52 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.card .background{
+    background-image:url("../images/Programming-Wallpapers-for-Desktop.webp")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:400px;
+    width:100%;
+    background-attachment: fixed;
+    margin:10px 0;
+}
+span.navbar-brand.text-white.log:hover {
+    text-shadow: 10px 10px 20px white, -10px -10px 20px white;;
+}
+.navbar:hover {
+    color:azure;
+    cursor: pointer;
+}
+nav.navbar.navbar-expand-sm.bg-dark.navbar-dark.navy {
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    z-index:3;
+}
+
+.card-img-overlay {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.overlay.bg-light {
+    position: absolute;
+    bottom: 10%;
+    left:10%;
+    width: 80%;
+    height: 25%;
+}
+.overlay.bg-light p{
+   text-align: center;
+   margin-top:2%;
+}
+.overlay.bg-light .btn{
+    margin-top: 2%;
+    margin-left: 38%;
+ 
+
+}
